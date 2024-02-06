@@ -1,1 +1,2 @@
 
+vless://0ce8a5b7-ed70-45d7-ab1f-82b2c377ee39@morti.mirroragency.net:443?type=grpc&serviceName=&security=reality&pbk=FL36eKiq3aoZywsUXnCQhH0xHAjp_Rs7q172CdqIFhY&fp=firefox&sni=mort.mirroragency.net&sid=7638&spx=%2F#KhatShekan%3A%20Saba%20Falah
